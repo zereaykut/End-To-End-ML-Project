@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-name="End-To-End-ML-Project",
+name="student-performance-prediction",
 version="0.0.2",
 author="Aykut",
 author_email="halil.aykut.zere@gmail.com",
